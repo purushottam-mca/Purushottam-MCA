@@ -55,7 +55,7 @@
  	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
  	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code> 
-	<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&count_private=true&show_icons=true" alt="Purushottam" /> 
+	<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" /> 
 - #### IDEs and Softwares
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
@@ -78,5 +78,5 @@
 
 <!--
 	#### 🌐 Visitor count
-	<img src="https://profile-counter.glitch.me/Purushottam-BCA/count.svg" />
+	<img src="https://profile-counter.glitch.me/Purushottam-MCA/count.svg" />
 -->
