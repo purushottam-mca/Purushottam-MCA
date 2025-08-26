@@ -24,7 +24,7 @@
 <a href="https://www.hackerrank.com/Pkumar_98">
   <img align="left" alt="HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
-<a href="https://github.com/Purushottam-BCA/">
+<a href="https://github.com/Purushottam-MCA/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -74,7 +74,7 @@
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/geeksforgeeks.svg"></code>
 
 <h2> ‎ </h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-BCA&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-MCA&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)">
 
 <!--
 	#### 🌐 Visitor count
