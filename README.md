@@ -31,8 +31,7 @@
 <br />
 
 ### :book: About Me
-<!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" /> 
+<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
 
 - 🔭 Working as **`  Software Engineer  `** at **`  Siemens EDA  `**
 - 🌱 Currently learning **Go language** and **C++ App Development**. 
@@ -42,6 +41,13 @@
 - ⚡ Fun fact : When I type, I like to use **3 dots…** instead of a **comma.**
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
 ####
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" />  -->
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-MCA&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <br>
+</p>
+
 <h5> ‎ </h5>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-MCA&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)">
