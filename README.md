@@ -42,7 +42,7 @@
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
 ####
 
-<p align="center">
+<p align="left">
   <img height="50%"  src ="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-MCA&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <br>
