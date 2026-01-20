@@ -32,7 +32,7 @@
 
 ### :book: About Me
 <!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-<img align="right" height="220px" src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" /> 
 
 - 🔭 Working as **`  Software Engineer  `** at **`  Siemens EDA  `**
 - 🌱 Currently learning **Go language** and **C++ App Development**. 
