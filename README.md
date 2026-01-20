@@ -43,36 +43,6 @@
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
 ####
 
-### 🛠️<b> Skills</b> 
-
-- #### Languages and Tools
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
- 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-  	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/perl.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
- 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
- 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code> 
-	<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" /> 
-- #### IDEs and Softwares
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cmake.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/eclipseide.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudio.svg"></code>
-- #### Favorite sites
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackexchange.svg"></code>
-	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/geeksforgeeks.svg"></code>
-
 <h2> ‎ </h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-MCA&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)">
 
