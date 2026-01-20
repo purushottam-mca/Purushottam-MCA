@@ -31,19 +31,19 @@
 <br />
 
 ### :book: About Me
-<img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+<img align="right" height="220px" src="https://github-readme-stats.vercel.app/api?username=Purushottam-MCA&count_private=true&show_icons=true" alt="Purushottam" /> 
 
 - 🔭 Working as **`  Software Engineer  `** at **`  Siemens EDA  `**
-- 🌱 Currently learning **Go language** and **C++ Application Development**. 
+- 🌱 Currently learning **Go language** and **C++ App Development**. 
 - 💻 Master of Computer Applications **(MCA)** from **Anna University.**
 - 💬 Ask me about **CPP/ Data Structures/ Python/ Java**.
 - 🤔 My hobbies are **playing chess** and **video games**.
-- 💪🏼 Fav Quote : "Good developers never stop learning".
-- ⚡ Fun fact : When I type, I like to use **three dots…** instead of a **comma.**
+- ⚡ Fun fact : When I type, I like to use **3 dots…** instead of a **comma.**
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
 ####
+<h5> ‎ </h5>
 
-<h2> ‎ </h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-MCA&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)">
 
 <!--
