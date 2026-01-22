@@ -1,6 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻... I'm Purushottam</h2> 
 
-<a href="https://www.linkedin.com/in/puruma82/">
+<!-- 
+<a href="https://www.linkedin.com/in/puruma82/"> 
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="mailto:Pkumar.mca22@gmail.com">
@@ -29,6 +30,7 @@
 </a>
 
 <br />
+-->
 
 ### :book: About Me
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
