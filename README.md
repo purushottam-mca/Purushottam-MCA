@@ -40,7 +40,7 @@
 - 💻 Master of Computer Applications **(MCA)** from **Anna University.**
 - 💬 Ask me about **CPP/ Data Structures/ Python/ Java**.
 - 🤔 My hobbies are **playing chess** and **video games**.
-- ⚡ Fun fact : When I type, I like to use **3 dots…** instead of a **comma.**
+- ⚡ Fun fact : When I type, I like to use **three dots…** instead of a **comma.**
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
 ####
 
