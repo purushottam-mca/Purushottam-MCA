@@ -1,18 +1,12 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻... I'm Purushottam</h2> 
+# Hi, I'm Purushottam 👋
 
-### :book: About Me
-<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
+> ### About Me
+-  Senior Member of Technical Staff (SMTS) at **Siemens EDA**
+-  Build desktop tools & automation using **Python, C++, and Qt (PyQt/PySide2)**
+-  Currently exploring **LLMs and AI agents**
+-  Completed Masters (MCA) from College of Engineering, Anna University
+-  1300+ problems solved on [LeetCode](https://leetcode.com/u/puruma82/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/puruma82?tab=activity)
+-  Hobbies: Chess and PC gaming
+-  Reach me on [LinkedIn](https://www.linkedin.com/in/puruma82/)
 
-- 🔭 Working as **`  Software Engineer  `** at **`  Siemens EDA  `**
-- 🌱 Currently learning **Go language** and **C++ App Development**. 
-- 💻 Master of Computer Applications **(MCA)** from **Anna University.**
-- 💬 Ask me about **CPP/ Data Structures/ Python/ Java**.
-- 🤔 My hobbies are **playing chess** and **video games**.
-- ⚡ Fun fact : When I type, I like to use **three dots…** instead of a **comma.**
-- 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
-####
-
-<!--
-	#### 🌐 Visitor count
-	<img src="https://profile-counter.glitch.me/Purushottam-MCA/count.svg" />
--->
+> There are 10 types of people: those who understand binary, and those who don't.
