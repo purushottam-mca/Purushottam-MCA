@@ -1,11 +1,10 @@
 # Hi, I'm Purushottam 👋
 
-> ### About Me
--  Senior Member of Technical Staff at **Siemens EDA (MentorGraphics)**
--  Build desktop tools & automation using **Python, C++, and Qt (PyQt/PySide2)**
--  Currently exploring **LLMs and AI agents**
+### About Me
 -  Completed Masters (MCA) from College of Engineering, Anna University
--  1300+ problems solved on [LeetCode](https://leetcode.com/u/puruma82/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/puruma82?tab=activity)
+-  Senior Member of Technical Staff at **Siemens EDA** (MentorGraphics)
+-  Building EDA desktop tools & automation using **Python, C++, and Qt**
+-  Currently exploring **LLMs and AI agents**
 -  Hobbies: Chess and PC gaming
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/puruma82/)
 
