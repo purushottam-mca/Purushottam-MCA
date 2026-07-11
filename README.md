@@ -1,7 +1,7 @@
 # Hi, I'm Purushottam 👋
 
 > ### About Me
--  Senior Member of Technical Staff (SMTS) at **Siemens EDA**
+-  Senior Member of Technical Staff at **Siemens EDA (MentorGraphics)**
 -  Build desktop tools & automation using **Python, C++, and Qt (PyQt/PySide2)**
 -  Currently exploring **LLMs and AI agents**
 -  Completed Masters (MCA) from College of Engineering, Anna University
