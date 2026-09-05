@@ -1,4 +1,4 @@
-## Hi, I'm Purushottam 👋
+## Hii, I'm Purushottam 👋
 -  Working as Senior Member of Technical Staff at **[Siemens EDA](https://www.linkedin.com/company/siemens-eda)**
 -  Building EDA desktop tools & automation using **Python, C++, and Qt**
 -  Completed Masters (MCA) from College of Engineering, Anna University
