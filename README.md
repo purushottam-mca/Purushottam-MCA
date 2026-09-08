@@ -3,7 +3,7 @@
 -  Building EDA desktop tools & automation using **Python, C++, and Qt**
 -  Completed MCA from College of Engineering, Anna University
 -  Currently exploring **LLMs and AI agents**
--  Hobbies: Chess and PC gaming
+-  Hobbies: Chess♟️ and PC gaming🎮
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/puruma82/)
 
 #### Fun facts
