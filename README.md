@@ -1,8 +1,8 @@
 ### Hi, I'm Purushottam 👋
 -  Working as Senior Member of Technical Staff at **[Siemens EDA](https://www.linkedin.com/company/siemens-eda)**
--  Building EDA desktop tools & automation using **Python, C++, and Qt**
+-  Building EDA tools & automation using **Python, C++, and Qt**
 -  Completed MCA from College of Engineering, Anna University
--  Currently exploring **LLMs and AI agents**
+-  Currently exploring **local LLMs and AI agents**
 -  Hobbies: Chess♟️ and PC gaming🎮
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/puruma82/)
 
